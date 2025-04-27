@@ -1,6 +1,6 @@
 # Socioeconomic and Income Data Analysis Project
 
-This project performs an in-depth analysis of a structured socioeconomic dataset containing demographic, educational, occupational, and financial information. It uses both **Python** (Pandas, Seaborn, Matplotlib, Scikit-learn) and **SQL** (SQLite) to extract meaningful insights and visualize patterns.
+This project performs an in-depth analysis of a structured socioeconomic [dataset](https://www.kaggle.com/datasets/hesh97/titanicdataset-traincsv) containing demographic, educational, occupational, and financial information. It uses both **Python** (Pandas, Seaborn, Matplotlib, Scikit-learn) and **SQL** (SQLite) to extract meaningful insights and visualize patterns.
 
 ----------
 
